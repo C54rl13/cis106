@@ -19,7 +19,7 @@ Assignment description [here](https://raw.githubusercontent.com/ra559/cis106/mai
 3.2 What dependencies are needed in order to install the package? (you can either take a screenshot of the terminal or copy and paste from the terminal)
 
 
-![Image](../Images/Lab%202%20Desktop%20Screenshot.png)
+![Image](../Images/Screenshot%20from%202021-10-06%2015-25-53.png)
 
 3.3 How much disk space will the package utilize after installation?
  
@@ -37,6 +37,11 @@ Assignment description [here](https://raw.githubusercontent.com/ra559/cis106/mai
 
 ## Question 4
 
-
+![Image](../Images/lab3q4.png)
+![Image](../Images/lab3p4p2.png)
 
 ## Question 5
+
+![Image](../Images/lab3q5.png)
+![Image](../Images/lab3q5p2.png)
+![Image](../Images/lab3q5p3.png)
